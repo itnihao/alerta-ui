@@ -1,0 +1,5 @@
+exclude .gitignore
+global-exclude *.pyc
+include alerta/app/app.wsgi
+recursive-include alerta/app/templates *
+

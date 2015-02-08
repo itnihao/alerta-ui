@@ -1,0 +1,11 @@
+Flask
+pymongo
+kombu
+librabbitmq
+boto
+argparse
+requests
+pytz
+alerta
+gunicorn
+
