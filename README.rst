@@ -1,8 +1,8 @@
 
 简介： 
 ============
-alerta-ui整合了angular-alerta-webui和alerta这2个项目，使其能够在一个独立页面访问  
-安装完毕后  http://x.x.x.x:8080/ui  访问UI即可
+alerta-ui整合了angular-alerta-webui和alerta这2个项目，使其能够在一个独立页面访问     
+安装完毕后  http://x.x.x.x:8080/ui  访问UI即可   
 
 Introduction
 ============
